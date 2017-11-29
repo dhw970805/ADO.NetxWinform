@@ -1,0 +1,15 @@
+D:\WinFormHomeWork\WinFormHomeWork\bin\Debug\WinFormHomeWork.exe.config
+D:\WinFormHomeWork\WinFormHomeWork\bin\Debug\WinFormHomeWork.exe
+D:\WinFormHomeWork\WinFormHomeWork\bin\Debug\WinFormHomeWork.pdb
+D:\WinFormHomeWork\WinFormHomeWork\obj\Debug\WinFormHomeWork.csprojResolveAssemblyReference.cache
+D:\WinFormHomeWork\WinFormHomeWork\obj\Debug\WinFormHomeWork.LogorSign.resources
+D:\WinFormHomeWork\WinFormHomeWork\obj\Debug\WinFormHomeWork.Properties.Resources.resources
+D:\WinFormHomeWork\WinFormHomeWork\obj\Debug\WinFormHomeWork.csproj.GenerateResource.Cache
+D:\WinFormHomeWork\WinFormHomeWork\obj\Debug\WinFormHomeWork.exe
+D:\WinFormHomeWork\WinFormHomeWork\obj\Debug\WinFormHomeWork.pdb
+D:\WinFormHomeWork\WinFormHomeWork\bin\Debug\MySql.Data.dll
+D:\WinFormHomeWork\WinFormHomeWork\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\WinFormHomeWork\WinFormHomeWork\bin\Debug\MySql.Data.xml
+D:\WinFormHomeWork\WinFormHomeWork\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\WinFormHomeWork\WinFormHomeWork\obj\Debug\WinFormHomeWork.SignIn.resources
+D:\WinFormHomeWork\WinFormHomeWork\obj\Debug\WinFormHomeWork.Form1.resources
